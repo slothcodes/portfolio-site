@@ -1,1 +1,6 @@
-This will be the ToDo list
+Next Steps
+
+[ ] Create Dummy React App
+[ ] Connect To Reddit API
+[ ] Create Basic Styling For The REACT App
+[ ] Load API Data Into React App
